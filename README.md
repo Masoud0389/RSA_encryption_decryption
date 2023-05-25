@@ -13,7 +13,7 @@ This program implements RSA encryption and decryption in C++. It allows you to e
 
 2. Compile the C++ code using a C++ compiler. For example, using g++:
 ```bash
-g++ rsa.cpp -o rsa
+g++ main.cpp -o rsa
 ```
 3. Run the executable file:
 ```bash
